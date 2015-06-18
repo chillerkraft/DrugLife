@@ -9,3 +9,38 @@ i always see drug plugins that just let you get the drugs and use them mainly.. 
 i might.
 but ill check back here to see what anyone thinks <3
 _____
+
+here's more of what im thinking in words i copy/pasted from a conversation
+_____
+, it's a big idea so i don't know exactly what itll be like but basically:
+
+- players can trade drugs with villagers at villages
+- villagers use the drugs sometimes?
+- mobs or just villagers are addicted and can become crazy sometimes
+- they may sometimes show up and try to steal drugs from grow ops etc
+- if players deny trades, they can get mad sometimes, maybe try to attack and or steal them,
+- players and mobs can use drugs
+- players need to protect there drugs and drug making operations
+- villagers go looking for drugs sometimes willing to trade more then usual for them
+- villagers/mobs can trick players by one doing a trade and another going and trying to steal the crops while player is distracted
+- mobs/villagers can use crackshot guns etc?
+- players gain or lose drugdealer status as time goes on?
+- can probably think of lots of other ideas
+_____
+i forget about the basically part, everything i listed is mainly just ideas/possiblities,
+but i think you understand the basic part of it being, its not just about players using drugs. it's about creating a life surrounding drugs, where using it isnt significant because a lot of people dont care for that.. i find it boring, id rather have that ability plus a ton of other stuff that makes using the drugs just a tiny part of the abilities the plugin gives.
+_____
+if theres was like, a respect system, then it could cause mobs to be more generous, or my particular with who they buy from and go to, and how much they trade it for, and if it's low it could cause bad things to happen like hits, attacks, creepers trying to wreek havoc on those unrespected dealers etc
+maybe make it so the players have to go find a new village to deal to if there respect gets to low with the others, until over time the respect stabalizes and the players have a chance to make a good name for themselves at the previous village again..
+as the players gain more and more respect, they are relied on a lot more, they get a lot more trades, and can become kingpins as long as they keep the customers satisfied
+
+realistic, but in a minecraft way.
+not all funky with stuff like, soil hydration and humidity and crap, but just simple minecraft stuff like the usual light, water, etc. sometimes plugins try to make things lifelike realistic; i want minecraft style realism with just the simple basic things relating to life.. like, addiction, respect, growing methods, 
+ahh this is kinda overwhelming but im praying i can get this going
+_____
+i'm talking about a new, never been seen on spigot/bukkitdev before plugin
+
+one for all the people who would like a drug plugin, but not one that's just for abusing your minecraft character/fun
+
+one that adds another life into the minecraft world. it doesn't take over the server, players get to choose if they want to take part in it or not, and then once they do, theres a whole bunch of stuff that they get to work with and think about and experience
+_____
