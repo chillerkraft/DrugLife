@@ -59,3 +59,6 @@ one that adds another life into the minecraft world. it doesn't take over the se
 
 _____
 !woo!
+
+could i please have someone interact with my DrugLife repo so i can learn more about what's possible? :) nothing specific just anything, even a quick hey! and maybe someone useful notes
+just remember. this is not really a project atm, as much as id like it to be, i'm getting nowhere fast and i'm sure i'm gonna be stuck here even longer because nobody ever tells people anything about how to make plugins etc. they just say LEARN JAVA HUDAHDAHHJJ<<<FFFFFFFFFFFFFF lol no offense it's just frustrating to be so overwhelmed by 1 word
